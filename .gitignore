@@ -1,0 +1,18 @@
+## Mac
+
+.DS_Store
+
+## VS Code
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## .NET Core
+
+*.suo
+*.user
+bin/
+obj/
