@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+      <PackageReference Include="HTTPlease" Version="1.8.2" />
+      <PackageReference Include="KubeClient" Version="2.0.0-unstable0115" />
+      <PackageReference Include="KubeClient.Extensions.CustomResources" Version="2.0.0-unstable0115" />
+      <PackageReference Include="KubeClient.Extensions.DependencyInjection" Version="2.0.0-unstable0115" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="2.0.1" />
+      <PackageReference Include="System.Reactive" Version="3.1.1" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{332E32EB-F6D7-4909-B387-D9288655C21C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KubeKit", "src\KubeKit\KubeKit.csproj", "{874131C7-32F6-46E3-B1AE-46815E4EF0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Debug|x64.Build.0 = Debug|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Debug|x86.Build.0 = Debug|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Release|x64.ActiveCfg = Release|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Release|x64.Build.0 = Release|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Release|x86.ActiveCfg = Release|Any CPU
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{874131C7-32F6-46E3-B1AE-46815E4EF0AF} = {332E32EB-F6D7-4909-B387-D9288655C21C}
+	EndGlobalSection
+EndGlobal
